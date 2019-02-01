@@ -11,10 +11,6 @@ html {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-/* body { */
-  /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
-  /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important; */
-/* } */
 
 hr {
   max-width: 50px;
@@ -334,7 +330,7 @@ header.masthead p {
   color: red !important;
   background-color: aquamarine !important;
 }
-/* 
-.card-img-top {
-  max-height: 50px !important;
-} */
+
+.card {
+  background-color: transparent !important;
+}
